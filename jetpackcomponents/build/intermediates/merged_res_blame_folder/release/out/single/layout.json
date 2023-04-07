@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.fraporitmos.jetpackcomponents-merged_res-37:/layout/custom_dialog.xml",
+        "source": "com.fraporitmos.jetpackcomponents-core-1.8.0-16:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.fraporitmos.jetpackcomponents-merged_res-37:/layout/notification_template_part_chronometer.xml",
+        "source": "com.fraporitmos.jetpackcomponents-core-1.8.0-16:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.fraporitmos.jetpackcomponents-merged_res-37:/layout/notification_template_part_time.xml",
+        "source": "com.fraporitmos.jetpackcomponents-core-1.8.0-16:/layout/notification_template_part_time.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.fraporitmos.jetpackcomponents-merged_res-37:/drawable/notification_tile_bg.xml",
+        "source": "com.fraporitmos.jetpackcomponents-core-1.8.0-16:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "com.fraporitmos.jetpackcomponents-merged_res-37:/drawable/notification_bg.xml",
+        "source": "com.fraporitmos.jetpackcomponents-core-1.8.0-16:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.fraporitmos.jetpackcomponents-merged_res-37:/drawable/notification_icon_background.xml",
+        "source": "com.fraporitmos.jetpackcomponents-core-1.8.0-16:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.fraporitmos.jetpackcomponents-merged_res-37:/drawable/notification_bg_low.xml",
+        "source": "com.fraporitmos.jetpackcomponents-core-1.8.0-16:/drawable/notification_bg_low.xml"
+    }
+]
