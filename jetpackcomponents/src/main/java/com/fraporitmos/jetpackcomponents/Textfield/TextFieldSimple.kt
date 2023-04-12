@@ -1,4 +1,4 @@
-package com.fraporitmos.jetpackcomponents.textfield
+package com.fraporitmos.jetpackcomponents.Textfield
 
 import androidx.compose.runtime.Composable
 
